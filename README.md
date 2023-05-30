@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farid</h1>
 <h3 align="center">A frontend developer from Baku</h3>
 
-- 🔭 I’m currently working on **Sunrise Product Studio**
+- 🔭 I’m currently working on **Webzool Creative INC**
 
-- 🌱 I’m currently learning **React.js, jQuery**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **HTML, CSS,Javascript, jQuery**
+- 💬 Ask me about **React Redux and Next**
 
 - 📫 How to reach me **ibrahimzadef26@gmail.com**
 
