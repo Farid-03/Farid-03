@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farid</h1>
 <h3 align="center">A frontend developer from Baku</h3>
 
-- 🔭 I’m currently working on **Webzool Creative INC**
+- 🔭 I’m currently working on **AzerElektrik Construction and Installation
+**
 
 - 🌱 I’m currently learning **TypeScript**
 
