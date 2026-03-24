@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farid</h1>
-<h3 align="center">A frontend developer from Baku</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working on **AzerElektrik Construction and Installation
 **
